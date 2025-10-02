@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Database",
+    "supabase_url": "https://gmrjbiteeacvgdqlhcyk.supabase.co",
+    "supabase_key_env": "SUPABASE_ANON_KEY",
+    "table_name": "keep-alive"
+  }
+]
