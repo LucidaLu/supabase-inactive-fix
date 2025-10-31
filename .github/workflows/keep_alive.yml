@@ -28,4 +28,5 @@ jobs:
       - name: Run the keep-alive script
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_ANON_KEY_2: ${{ secrets.SUPABASE_ANON_KEY_2 }}
         run: python main.py
